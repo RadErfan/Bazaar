@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coding/Android/00ProzhePayani/0New/full/recording/DuniBazaar/app/src/main/res/drawable/ic_details_sold.xml" value="0.104" />
+        <entry key="..\:/Coding/Android/00ProzhePayani/0New/full/recording/DuniBazaar/app/src/main/res/drawable/ic_minus.xml" value="0.104" />
+        <entry key="..\:/Coding/Android/00ProzhePayani/0New/full/recording/DuniBazaar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.104" />
+        <entry key="..\:/Coding/Android/00ProzhePayani/recording/DuniBazaar/app/src/main/res/drawable/ic_cat_clutch.xml" value="0.133" />
+        <entry key="..\:/Coding/Android/00ProzhePayani/recording/DuniBazaar/app/src/main/res/drawable/ic_cat_satchel.xml" value="0.133" />
+        <entry key="..\:/Coding/Android/finishingDore/DuniBazaar/app/src/main/res/drawable/ic_icon_app.xml" value="0.1" />
+        <entry key="..\:/Users/Amir  Mohammadi/Desktop/readyToFinish/DuniBazaar/app/src/main/res/drawable/ic_person.xml" value="0.151" />
+        <entry key="..\:/Users/Amir  Mohammadi/Desktop/readyToFinish/DuniBazaar/app/src/main/res/drawable/ic_visible.xml" value="0.151" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
